@@ -7,7 +7,7 @@ Each task includes a description, example input, and expected output.
 
 ##  Units & Chapters
 
-### **Unit: String**
+### **String**
 1. Reverse a string  
 2. Check if a string is a palindrome  
 3. Count vowels, consonants, digits, special characters  
@@ -21,7 +21,7 @@ Each task includes a description, example input, and expected output.
 
 ---
 
-### **Chapter Seven: Files**
+### **Files**
 1. Read a file line by line  
 2. Count lines, words, characters  
 3. Write list of strings to a file  
@@ -49,7 +49,7 @@ Each task includes a description, example input, and expected output.
 
 ---
 
-### **Chapter Nine: Dictionaries**
+### **Dictionaries**
 1. Create dictionary of student scores  
 2. Add, update, delete dictionary keys  
 3. Merge two dictionaries  
@@ -63,7 +63,7 @@ Each task includes a description, example input, and expected output.
 
 ---
 
-### **Chapter Ten: Tuples**
+### **Tuples**
 1. Create a mixed-type tuple  
 2. Unpack tuple to variables  
 3. Convert list to tuple and vice versa  
@@ -77,7 +77,7 @@ Each task includes a description, example input, and expected output.
 
 ---
 
-## ⚙ How to Run
+## How to Run
 Clone the repository and run any Python script:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
