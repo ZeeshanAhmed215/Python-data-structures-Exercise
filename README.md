@@ -79,8 +79,4 @@ Each task includes a description, example input, and expected output.
 
 ## How to Run
 Clone the repository and run any Python script:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-python task_file.py
 ****
