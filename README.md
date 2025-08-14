@@ -21,20 +21,6 @@ Each task includes a description, example input, and expected output.
 
 ---
 
-### **Unit: Installing and Using Python**
-1. Print Python version  
-2. Greeting script  
-3. Command-line script with `sys.argv`  
-4. Basic calculator  
-5. List current directory files  
-6. Open URL with `webbrowser` module  
-7. Show system info (Python, OS, Time)  
-8. Redirect output to a file  
-9. Create virtual environment & install package  
-10. CLI greeting with `argparse`  
-
----
-
 ### **Chapter Seven: Files**
 1. Read a file line by line  
 2. Count lines, words, characters  
