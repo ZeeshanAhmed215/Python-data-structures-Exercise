@@ -35,7 +35,7 @@ Each task includes a description, example input, and expected output.
 
 ---
 
-### **Chapter Eight: Lists**
+### **Lists**
 1. Create list of numbers 1 to 10  
 2. Remove duplicates  
 3. Sort list in ascending/descending order  
